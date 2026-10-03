@@ -1,0 +1,10 @@
+Cutoff: 140 mmHg
+Reason: A 140 mmHg cutoff prioritizes patients with elevated systolic readings for this week's limited callback capacity.
+P002
+P006
+P011
+P014
+P018
+P022
+P025
+P028
