@@ -2,11 +2,11 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+This project reads a clinic encounter export and produces a systolic blood pressure summary and a patient follow-up list.
 
 ## Run
 
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+Run `py -3.13 clinic_report.py` from this directory in Windows PowerShell.
 
 ## Files
 
